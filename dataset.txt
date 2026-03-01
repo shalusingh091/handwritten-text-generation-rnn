@@ -1,0 +1,4 @@
+Hello my name is Shalu.
+I love learning machine learning and deep learning.
+Neural networks can generate creative text.
+This is a simple handwritten style text generator example.
